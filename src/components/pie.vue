@@ -17,7 +17,7 @@ export default {
             data: [
               {
                 value: '12',
-                name: '卡车'
+                name: '卡车修改1111'
               },
               {
                 value: '34',
